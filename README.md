@@ -4,12 +4,11 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=ffffff)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-2.8.0-ff69b4?logo=apachekafka&logoColor=ffffff)
-![AWS S3](https://img.shields.io/badge/AWS_S3-162F63?logo=amazonaws)
-![AWS Glue](https://img.shields.io/badge/AWS_Glue-252F35?logo=amazonaws)
-![AWS Athena](https://img.shields.io/badge/AWS_Athena-232F3E?logo=amazonaws)
+![AWS DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-4053D6?logo=amazonaws&logoColor=ffffff)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0077BB?logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/Seaborn-0C4B8E?logo=python&logoColor=ffffff)
 ![Real-Time Processing](https://img.shields.io/badge/Real--Time%20Processing-4CAF50?logo=real-time&logoColor=ffffff)
 
 ## Description
