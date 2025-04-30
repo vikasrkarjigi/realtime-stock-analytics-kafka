@@ -30,6 +30,15 @@ This project demonstrates a **real-time data pipeline** for analyzing stock mark
 └── README.md                            # Project documentation
 ```
 
+## 🏆 Achievements
+
+- ✅ Streamed and processed over **5,000 stock records** in real-time from 7 major companies.
+- ⚡ Achieved end-to-end ingestion-to-visualization pipeline with **sub-second latency** per record.
+- ☁️ Successfully deployed Kafka on AWS EC2 with **99.9% uptime** during testing period.
+- 🔗 Stored structured time-series data in **DynamoDB with 5K+ entries** accessible via key-based queries.
+- 📈 Visualized stock trends and correlations using over **20 custom plots** (line, box, heatmap).
+- 📂 Built a scalable and extensible data architecture using **100% open-source and cloud-native tools**.
+
 ---
 
 ## 🔧 Tools & Technologies
